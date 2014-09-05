@@ -1,0 +1,3 @@
+Módulo requerido
+
+python-crypto
